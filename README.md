@@ -1,7 +1,4 @@
-# A full-featured, 100% test-covered, extensible HelloWorld Application in Java
+# Simple inject framework
 
-## Build
 
-```shell
-./gradlew build
-```
+for examples see [TW-TNB/hello](https://github.com/TW-TNB/hello)
